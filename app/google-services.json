@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "484314636274",
+    "firebase_url": "https://imageupload-f63e8.firebaseio.com",
+    "project_id": "imageupload-f63e8",
+    "storage_bucket": "imageupload-f63e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484314636274:android:b6cbda1bdfb148668bd56b",
+        "android_client_info": {
+          "package_name": "com.thenextlevel.recyclerviewdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484314636274-stee7pd9567ep2nmgtgep5oqm1qell89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT4dUfIrqoq9t7j-k6De333mg7L6Sowys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484314636274-stee7pd9567ep2nmgtgep5oqm1qell89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
